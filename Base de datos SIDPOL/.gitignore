@@ -1,0 +1,10 @@
+# Ignorar archivos de Excel (Datos sensibles SIDPOL)
+#*.xlsx
+#*.xls
+#*.csv
+
+# Ignorar carpetas de configuración de VS Code y Python
+.vscode/
+__pycache__/
+*.ipynb_checkpoints/
+get-pip.py
