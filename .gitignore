@@ -1,0 +1,12 @@
+# --- Ignorar Entornos Virtuales ---
+.venv/
+env/
+
+# --- Ignorar Archivos de Sistema/Instaladores ---
+get-pip.py
+__pycache__/
+
+# --- Ignorar Excel (Datos Sensibles) ---
+# Esto bloqueará todos los excel, estén donde estén (raíz o subcarpetas)
+#*.xlsx
+#*.xls
